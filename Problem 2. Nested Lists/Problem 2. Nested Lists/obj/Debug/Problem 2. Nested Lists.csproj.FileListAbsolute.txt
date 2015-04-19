@@ -1,0 +1,6 @@
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.dll.config
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.dll
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\bin\Problem_2.Nested_Lists.pdb
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\obj\Debug\Problem 2. Nested Lists.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\obj\Debug\Problem_2.Nested_Lists.dll
+C:\Users\win7\Desktop\Problem 2. Nested Lists\Problem 2. Nested Lists\obj\Debug\Problem_2.Nested_Lists.pdb
